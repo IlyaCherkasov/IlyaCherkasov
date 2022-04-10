@@ -34,6 +34,6 @@
 [![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/iCherkasik)
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 
-<a href="https://psnprofiles.com/iCherkasik"><img src="https://card.psnprofiles.com/2/iCherkasik.png" border="0"></a>
+[![PSN Profiles](https://card.psnprofiles.com/2/iCherkasik.png)](https://psnprofiles.com/iCherkasik)
 # 🤡 Small boost for your mood
 ![Jokes Card](https://readme-jokes.vercel.app/api)
